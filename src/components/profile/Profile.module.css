@@ -1,0 +1,23 @@
+.background_img{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 250px;
+
+}
+.avatar_img{
+    margin-top: 25px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 250px;
+    width: 200px;
+}
+.avatar_flex{
+    display: flex;
+    justify-content:space-around;
+    width: 40%;
+}
+.avatar_info{
+    margin-top: 40px;
+}

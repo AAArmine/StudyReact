@@ -1,0 +1,17 @@
+.main_flex{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.main_flex_item1{
+  width: 11%;
+  background-color:hotpink;
+  padding:25px;
+  
+}
+.main_flex_item2{
+  width:80%;
+  background-color: rgb(165, 250, 250);
+  padding:25px;
+  
+}
